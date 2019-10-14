@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/iss_tracker/static/css/main.c8332782.chunk.css",
-    "main.js": "/iss_tracker/static/js/main.84977148.chunk.js",
-    "main.js.map": "/iss_tracker/static/js/main.84977148.chunk.js.map",
+    "main.css": "/iss_tracker/static/css/main.32ccabec.chunk.css",
+    "main.js": "/iss_tracker/static/js/main.173f242a.chunk.js",
+    "main.js.map": "/iss_tracker/static/js/main.173f242a.chunk.js.map",
     "runtime-main.js": "/iss_tracker/static/js/runtime-main.f52a1d19.js",
     "runtime-main.js.map": "/iss_tracker/static/js/runtime-main.f52a1d19.js.map",
     "static/css/2.2d520bf0.chunk.css": "/iss_tracker/static/css/2.2d520bf0.chunk.css",
-    "static/js/2.eec8ae0a.chunk.js": "/iss_tracker/static/js/2.eec8ae0a.chunk.js",
-    "static/js/2.eec8ae0a.chunk.js.map": "/iss_tracker/static/js/2.eec8ae0a.chunk.js.map",
+    "static/js/2.89f846a6.chunk.js": "/iss_tracker/static/js/2.89f846a6.chunk.js",
+    "static/js/2.89f846a6.chunk.js.map": "/iss_tracker/static/js/2.89f846a6.chunk.js.map",
     "index.html": "/iss_tracker/index.html",
-    "precache-manifest.21694a8988f30f4058715182b4dfc350.js": "/iss_tracker/precache-manifest.21694a8988f30f4058715182b4dfc350.js",
+    "precache-manifest.b6f08f10795c4d6000374541bf2b207a.js": "/iss_tracker/precache-manifest.b6f08f10795c4d6000374541bf2b207a.js",
     "service-worker.js": "/iss_tracker/service-worker.js",
     "static/css/2.2d520bf0.chunk.css.map": "/iss_tracker/static/css/2.2d520bf0.chunk.css.map",
-    "static/css/main.c8332782.chunk.css.map": "/iss_tracker/static/css/main.c8332782.chunk.css.map"
+    "static/css/main.32ccabec.chunk.css.map": "/iss_tracker/static/css/main.32ccabec.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.f52a1d19.js",
     "static/css/2.2d520bf0.chunk.css",
-    "static/js/2.eec8ae0a.chunk.js",
-    "static/css/main.c8332782.chunk.css",
-    "static/js/main.84977148.chunk.js"
+    "static/js/2.89f846a6.chunk.js",
+    "static/css/main.32ccabec.chunk.css",
+    "static/js/main.173f242a.chunk.js"
   ]
 }
